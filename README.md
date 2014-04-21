@@ -1,0 +1,1 @@
+City data for US cities with population over 100,000 in JSON format, parsed from http://en.wikipedia.org/wikiList_of_United_States_cities_by_population.  Includes population, lat, lon, change in population, state, wikipedia URL, and land area.
